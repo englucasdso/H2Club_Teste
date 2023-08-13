@@ -5,8 +5,8 @@ Este é um teste da H2 Club com o intuito de avaliar as minhas seguintes habilid
 ## Índice
 
 - [Atividade 1 - Consultas SQL](#atividade-1---consultas-sql)
-- [Atividade 2 - Manipulação de Dados em Python](#atividade-2---manipulacao-de-dados-em-python)
-- [Atividade 3 - Acessando APIs com Python](#atividade-3---acessando-apis-em-python)
+- [Atividade 2 - Manipulação de Dados em Python](#atividade-2---manipulação-de-dados-em-python)
+- [Atividade 3 - Acessando APIs com Python](#atividade-3---acessando-apis-com-python)
 - [Considerações Finais](#considerações-finais)
 
 ## Atividade 1 - Consultas SQL
