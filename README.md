@@ -7,6 +7,7 @@ Este é um teste da H2 Club com o intuito de avaliar as minhas seguintes habilid
 - [Atividade 1 - Consultas SQL](#atividade-1---consultas-sql)
 - [Atividade 2 - Manipulação de Dados em Python](#atividade-2---manipulação-de-dados-em-python)
 - [Atividade 3 - Acessando APIs com Python](#atividade-3---acessando-apis-com-python)
+- [Viz - Atividade 1](#viz---atividade-1)
 - [Considerações Finais](#considerações-finais)
 
 ## Atividade 1 - Consultas SQL
@@ -32,6 +33,12 @@ A segunda atividade envolveu a manipulação e transformação de dados utilizan
 Neste último desafio, a tarefa era acessar uma API externa para obter dados de partidas de esportes. A complexidade residia em filtrar e formatar corretamente os dados recebidos, focando especificamente em partidas do campeonato brasileiro de 2023. Após a obtenção e processamento dos dados, a etapa final consistia em armazená-los localmente, garantindo que todas as informações estivessem corretamente estruturadas e prontas para consulta.
 
 - **Script da API**: [Link para o script](./atividade3/script.py)
+
+## Viz - Atividade 1
+
+Coloquei alguns gráficos para ajudar na visualização dos resultados das querys, ajudando a tirar alguns insights.
+
+- **Arquivos de imagem**: [Link para as imagens](./viz/atividade1/)
 
 ## Considerações Finais
 
